@@ -8,5 +8,5 @@ This is an extension of the nodejs container, with the firebase emulators preins
 
 To build this image, run:
 
-		docker build ./firebase-emulator/ -t replayvalue/firebase-emulator:<version-tag>
-		docker push replayvalue/firebase-emulator
+    docker build ./firebase-emulator/ -t replayvalue/firebase-emulator:<version-tag>
+    docker push replayvalue/firebase-emulator
